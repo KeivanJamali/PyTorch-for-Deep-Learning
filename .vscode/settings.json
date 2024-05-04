@@ -1,4 +1,5 @@
 {
     "python.analysis.autoImportCompletions": true,
-    "window.autoDetectColorScheme": false
+    "window.autoDetectColorScheme": false,
+    "python.analysis.typeCheckingMode": "basic"
 }
